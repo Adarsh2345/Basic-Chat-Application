@@ -81,7 +81,7 @@ Scan the QR code using Expo Go.
 
 .
 ├── frontend/           # React Native frontend (Expo)
-│   └── App.js
+│   └── index.jsx
 ├── backend/           # Node.js backend
 │   └── server.js
 └── README.md
